@@ -1,7 +1,7 @@
 # Tercer-Parcial-Computo-Paralelo
 ### INTEGRANTES:  
-SEBASTIAN MEZA ANDRADE 339079  
 JOHANN LOZANO ENRIQUEZ 338834  
+SEBASTIAN MEZA ANDRADE 339079  
 
 ### Archivos:
 **1. Producer.py** Es el que optiene los valores del dataset y los manda a un tema de Apache Kafka para que ahi se almacenen para que despues el consumidor los consuma.  
